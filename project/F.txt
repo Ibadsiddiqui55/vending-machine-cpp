@@ -1,0 +1,12 @@
+1 "Shirt" 100
+2 "Pants" 120
+3 "Socks" 50
+4 "Shoes" 80
+5 "Hat" 60
+6 "Belt" 40
+7 "Tie" 35
+8 "Scarf" 45
+9 "Gloves" 25
+10 "Jacket" 150
+11 "Cap" 90
+12 "Sweater" 70

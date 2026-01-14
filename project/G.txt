@@ -1,0 +1,10 @@
+1 "Phone" 500
+2 "Charger" 300
+3 "Headset" 150
+4 "Powerbank" 700
+5 "USB" 200
+6 "Cable" 100
+7 "Mouse" 250
+8 "Keyboard" 400
+10 "Tablet" 600
+12 "Speaker" 350

@@ -1,0 +1,12 @@
+1 "Brush" 25
+2 "Paint" 35
+3 "Canvas" 50
+4 "Palette" 40
+5 "Easel" 60
+6 "Clay" 45
+7 "Glue" 30
+8 "Paper" 20
+9 "Scissors" 15
+10 "Tape" 10
+11 "Charcoal" 55
+12 "Marker" 65

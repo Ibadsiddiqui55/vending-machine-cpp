@@ -1,0 +1,10 @@
+2 "Pepsi" 40
+3 "Coke" 45
+4 "Lays" 60
+5 "Water" 30
+6 "Juice" 35
+7 "Soda" 55
+8 "Cookies" 25
+9 "Candy" 20
+10 "Milk" 40
+11 "Nuts" 70

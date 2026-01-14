@@ -1,0 +1,12 @@
+1 "Bread" 35
+2 "Jam" 25
+3 "Butter" 30
+4 "Cheese" 50
+5 "Milkshake" 45
+6 "Tea" 20
+7 "Coffee" 25
+8 "Chocolate" 60
+9 "Cake" 70
+10 "Muffin" 40
+11 "Donut" 35
+12 "Honey" 55

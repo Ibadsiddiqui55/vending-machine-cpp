@@ -1,0 +1,11 @@
+1 "Apple" 20
+2 "Banana" 15
+4 "Grapes" 30
+5 "Mango" 50
+6 "Pineapple" 60
+7 "Papaya" 40
+8 "Kiwi" 35
+9 "Cherry" 45
+10 "Peach" 50
+11 "Plum" 30
+12 "Pear" 25

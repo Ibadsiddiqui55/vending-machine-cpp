@@ -1,0 +1,10 @@
+1 "Soap" 15
+2 "Shampoo" 50
+3 "Toothpaste" 40
+4 "Brush" 35
+5 "Deodorant" 60
+6 "Towel" 25
+7 "Cream" 30
+8 "Lotion" 45
+9 "Perfume" 55
+10 "Nailpolish" 35

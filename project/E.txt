@@ -1,0 +1,12 @@
+1 "Pen" 10
+2 "Pencil" 5
+3 "Eraser" 5
+4 "Marker" 15
+5 "Notebook" 20
+6 "Sharpener" 5
+7 "Ruler" 10
+8 "Glue" 15
+9 "Highlighter" 10
+10 "Sketchpen" 20
+11 "Stapler" 25
+12 "Paperclip" 5

@@ -1,0 +1,12 @@
+1 "Ball" 80
+2 "Bat" 120
+3 "Glove" 60
+4 "Helmet" 150
+5 "Racket" 100
+6 "Shoes" 90
+7 "Jersey" 70
+8 "Cap" 40
+9 "Socks" 50
+10 "Pads" 30
+11 "Net" 200
+12 "Bag" 180

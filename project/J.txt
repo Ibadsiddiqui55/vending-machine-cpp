@@ -1,0 +1,11 @@
+2 "Doll" 70
+3 "Puzzle" 80
+4 "Blocks" 90
+5 "Ball" 50
+6 "YoYo" 40
+7 "Train" 30
+8 "Robot" 20
+9 "Puzzle2" 100
+10 "Stuffed" 110
+11 "Figure" 120
+12 "Game" 130
